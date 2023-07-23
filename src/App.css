@@ -13,6 +13,22 @@
   }
 }
 
+.carousel-item {
+  background-color: rgba(61, 197, 228, 0.5); /* Light blue color with 50% opacity */
+  padding-top: 100px; /* Add padding for more space */
+  padding-bottom: 100px; /* Add padding for more space */
+}
+
+.smaller-image {
+  width: 80px; /* Adjust the width to your desired size */
+  height: 80px; /* Adjust the height to your desired size */
+}
+
+
+
+
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

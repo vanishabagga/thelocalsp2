@@ -1,0 +1,19 @@
+.custom-tabs .nav-link {
+    color: pink !important;
+  }
+  
+  .custom-tabs .nav-link.active {
+    color: inherit !important;
+  }
+
+  #account-tabs-tab-itinerary.nav-link{
+    color: #f1356d;
+  }
+  #account-tabs-tab-account.nav-link{
+    color: #f1356d;
+  }
+
+  #account-tabs-tab-reviews.nav-link{
+    color: #f1356d;
+  }
+  
